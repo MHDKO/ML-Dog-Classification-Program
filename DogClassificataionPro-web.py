@@ -22,7 +22,7 @@ if gpus:
 
 # Load model and breed labels
 model = tf.keras.models.load_model('final_dog_inception_model.keras')
-df = pd.read_csv('/home/mmhdko/Documents/DogClassificationPro./Dog Breeds/dog-breed-identification/labels.csv')
+df = pd.read_csv('/labels.csv')
 class_names = sorted(df['breed'].unique())
 
 
