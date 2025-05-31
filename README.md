@@ -6,3 +6,5 @@ The Vet Assistant was built using the OpenRouter API-KEY
 
 The Web version was built using the Gradio library 
 Mobile Version was built using KIVY
+
+You can download the .keras file from : https://dosya.co/nqiuhqsmq4cr/final_dog_inception_model.keras.html
